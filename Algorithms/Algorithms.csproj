@@ -66,6 +66,7 @@
     <Compile Include="Strings\Permutations.cs" />
     <Compile Include="Graphs\ConnectedComponents.cs" />
     <Compile Include="Graphs\BipartiteColoring.cs" />
+    <Compile Include="Strings\StringSearchIndex.cs" />
     <Compile Include="Trees\BinaryTreeRecursiveWalker.cs" />
     <Compile Include="Trees\BinaryTreeIterativeWalker.cs" />
   </ItemGroup>
@@ -80,7 +81,5 @@
   <ItemGroup />
   <ItemGroup />
   <ItemGroup />
-  <ItemGroup>
-    <Folder Include="Trees\" />
-  </ItemGroup>
+  <ItemGroup />
 </Project>
